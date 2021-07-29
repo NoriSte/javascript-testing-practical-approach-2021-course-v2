@@ -28,8 +28,9 @@
 
 ## Additional courses
 
-- Kent C. Dodds: [Testing JevaScript](https://testingjavascript.com/)
+- Kent C. Dodds: [Testing JavaScript](https://testingjavascript.com/)
 - Egghead.io: [Test Production Ready Apps with Cypress](https://egghead.io/courses/test-production-ready-apps-with-cypress)
+- Filip Hric's [Advanced Cypress](https://testautomationu.applitools.com/advanced-cypress-tutorial/)
 
 ## Extensive resources
 
