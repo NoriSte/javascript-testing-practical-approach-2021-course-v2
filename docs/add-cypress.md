@@ -1,6 +1,6 @@
 # Adding Cypress to an existing project
 
-1. Install Cypress and start-server-and-test: `$ npm install -D cypress start-server-and-test`
+1. Install Cypress and start-server-and-test: `$ npm install -D cypress start-server-and-test @testing-library/cypress`
 
 2. add some scripts to the package.json
 ```json
