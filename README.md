@@ -46,3 +46,7 @@ I'm currently focused on React, TypeScript and all their ecosystems.
 I wrote a big [UI Testing Best Practices](https://github.com/NoriSte/ui-testing-best-practices) project on GitHub.
 
 [GitHub](https://github.com/NoriSte) - [LinkedIn](https://www.linkedin.com/in/noriste/) - [Twitter](https://twitter.com/NoriSte)
+
+## Changes compared to the previous version of the course
+
+- Running Docker locally is not necessary anymore
